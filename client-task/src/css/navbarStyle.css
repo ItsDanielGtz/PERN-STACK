@@ -1,0 +1,24 @@
+/* NAV */
+.grid{
+    display: grid;
+    gap: 1.5rem;
+}
+
+.nav_logo{
+    color: white;
+    font-weight: 500;
+    padding-top: 15px;
+}
+
+.nav_logo:hover{
+    color: grey;
+    
+}
+.nav_menu{
+    margin-left:auto ;
+}
+
+.nav_list{
+    display: flex;
+    column-gap: 2rem;
+}
